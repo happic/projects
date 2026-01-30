@@ -23,6 +23,3 @@
 - Штаты с самыми низкими средними рейтингами (Нью-Йорк, Невада) нуждаются в модернизации лечебных учреждений.
 <img width="1313" height="739" alt="hospitals_dashboard" src="https://github.com/user-attachments/assets/b14fc05b-08f6-42fb-a1b9-793a44cf2031" />
 
-
-**Код с анализом и SQL-запросом в файле hospital_analysis.ipynb**
-
