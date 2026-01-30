@@ -9,7 +9,7 @@
 - Статистика и тесты: Python (SciPy, Pingouin, Shapiro-Wilk, корреляция)
 - Визуализация (исследовательская): Python (Matplotlib, Seaborn: regplot, boxplot, histplot, Plotly.Express)
 - Финальный дашборд: Power BI (карта, scatter plot, bar chart, таблицы)
-- Управление: Git, Jupyter Notebook
+- Управление: Git
 
 ### Ключевые инсайты
 1. Существует слабая обратная корреляция между количеством коек в больнице и рейтингом: меньше коек - больше рейтинг
