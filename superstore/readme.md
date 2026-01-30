@@ -19,3 +19,16 @@
 - Топ сегмент: клиенты R1F1 = $198K выручки
 - Самые прибыльные штаты: Калифорния и Нью-Йорк ($76к и $74к соответственно)
 - Лучшая категория товаров: Копиры (37,2% прибыли)
+<img width="1302" height="732" alt="superstore_dashboard_list1" src="https://github.com/user-attachments/assets/a282914b-ff94-4c4d-aa9e-8e919e662053" />
+<img width="1309" height="731" alt="superstore_dashboard_list2" src="https://github.com/user-attachments/assets/95685ffc-9852-4366-a2e3-6c765a49e251" />
+
+[regional_performance.sql](https://github.com/user-attachments/files/24965350/regional_performance.sql)
+
+[rfm_last_year.sql](https://github.com/user-attachments/files/24965351/rfm_last_year.sql)
+
+[kpi_per_year.sql](https://github.com/user-attachments/files/24965354/kpi_per_year.sql)
+
+[category_analysis.sql](https://github.com/user-attachments/files/24965352/category_analysis.sql)
+
+[top_products_last_year.sql](https://github.com/user-attachments/files/24965377/top_products_last_year.sql)
+
